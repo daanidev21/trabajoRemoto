@@ -11,18 +11,4 @@
         <riego>diario</riego>
         <precio>3.5</precio>
     </especie>
-    <especie>
-        <nombre>Mango</nombre>
-        <variedad>Alphonso</variedad>
-        <origen>India</origen>
-        <color>amarillo</color>
-        <maduracion>abril</maduracion>
-        <riego>regular</riego>
-        <precio>4.2</precio>
-    </especie>
 </arbol>
-<planta>
-    <especie>
-        <nombre>Planta1</nombre>
-    </especie>
-</planta>
