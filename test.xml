@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE arbol SYSTEM "/Users/danizanon/Documents/Lenguajes de marcas/XML/EJ1/test.dtd">
+
+<arbol>
+    <especie>
+        <nombre>Litchi</nombre>
+        <variedad>Kway May Pink</variedad>
+        <origen>Filipinas &valor; </origen>
+        <color>rojo</color>
+        <maduracion>agosto</maduracion>
+        <riego>diario</riego>
+        <precio>3.5</precio>
+    </especie>
+    <especie>
+        <nombre>Mango</nombre>
+        <variedad>Alphonso</variedad>
+        <origen>India</origen>
+        <color>amarillo</color>
+        <maduracion>abril</maduracion>
+        <riego>regular</riego>
+        <precio>4.2</precio>
+    </especie>
+    <especie>
+        <nombre>Manzano</nombre>
+        <variedad>Gala</variedad>
+        <origen>Estados Unidos</origen>
+        <color>rojo y amarillo</color>
+        <maduracion>septiembre</maduracion>
+        <riego>moderado</riego>
+        <precio>5.0</precio>
+    </especie>
+
+</arbol>
