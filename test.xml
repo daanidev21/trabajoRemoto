@@ -20,14 +20,9 @@
         <riego>regular</riego>
         <precio>4.2</precio>
     </especie>
-    <especie>
-        <nombre>Manzano</nombre>
-        <variedad>Gala</variedad>
-        <origen>Estados Unidos</origen>
-        <color>rojo y amarillo</color>
-        <maduracion>septiembre</maduracion>
-        <riego>moderado</riego>
-        <precio>5.0</precio>
-    </especie>
-
 </arbol>
+<planta>
+    <especie>
+        <nombre>Planta1</nombre>
+    </especie>
+</planta>
